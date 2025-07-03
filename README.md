@@ -71,7 +71,7 @@ I aim to become a well-rounded developer with strong skills in both  software de
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Uoz4Ou9R_0EE3K_nHZJl_GD4Hf7VfeyBakrr2oaVH_OrJXo-Y2_-4TRoYQgnlMgY3Po&usqp=CAU" height="70" alt="Bolt.io" title="Bolt.io"/>
   <img src="https://img.icons8.com/?size=512&id=DiGZkjCzyZXn&format=png" height="70" alt="Cursor AI" title="Cursor AI"/>
   <img src="https://lovable.dev/img/logo/lovable-icon-bg-light.png" height="70" alt="Lovable" title="Lovable"/>
-  <img src="[https://videsurf.com/favicon.ico](https://windsurf.com/favicon_192.png)" height="70" alt="Videsurf" title="Videsurf"/>
+  <img src="https://windsurf.com/favicon.svg" height="70" alt="Videsurf" title="Videsurf"/>
 
 
 </div>
