@@ -33,7 +33,7 @@ I aim to become a well-rounded developer with strong skills in both  software de
                                             Languages & Tools i have been using in my rodmap
                  
 
-<### 🧰 My Tech Stack
+
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
 
@@ -67,11 +67,11 @@ I aim to become a well-rounded developer with strong skills in both  software de
   <img src="https://kineticit.com.au/wp-content/uploads/2022/10/AWS_logo-600x600.png" height="70" alt="AWS"/>
 
   <!-- Custom Platforms -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" height="70" alt="Replit" title="Replit"/>
-  <img src="https://bolt.fun/favicon.ico" height="70" alt="Bolt.io" title="Bolt.io"/>
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="70" alt="Cursor AI" title="Cursor AI"/>
-  <img src="https://lovable.so/favicon.ico" height="70" alt="Lovable" title="Lovable"/>
-  <img src="https://videsurf.com/favicon.ico" height="70" alt="Videsurf" title="Videsurf"/>
+  <img src="https://img.icons8.com/color/512/replit.png" height="70" alt="Replit" title="Replit"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Uoz4Ou9R_0EE3K_nHZJl_GD4Hf7VfeyBakrr2oaVH_OrJXo-Y2_-4TRoYQgnlMgY3Po&usqp=CAU" height="70" alt="Bolt.io" title="Bolt.io"/>
+  <img src="https://img.icons8.com/?size=512&id=DiGZkjCzyZXn&format=png" height="70" alt="Cursor AI" title="Cursor AI"/>
+  <img src="https://lovable.dev/img/logo/lovable-icon-bg-light.png" height="70" alt="Lovable" title="Lovable"/>
+  <img src="[https://videsurf.com/favicon.ico](https://windsurf.com/favicon_192.png)" height="70" alt="Videsurf" title="Videsurf"/>
 
 
 </div>
