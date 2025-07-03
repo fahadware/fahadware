@@ -66,9 +66,13 @@ I aim to become a well-rounded developer with strong skills in both  software de
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="70" alt="Terraform"/>
   <img src="https://kineticit.com.au/wp-content/uploads/2022/10/AWS_logo-600x600.png" height="70" alt="AWS"/>
 
-  <!-- Others (Custom Icons) -->
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="70" alt="Cursor AI" title="Cursor" />
+  <!-- Custom Platforms -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" height="70" alt="Replit" title="Replit"/>
   <img src="https://bolt.fun/favicon.ico" height="70" alt="Bolt.io" title="Bolt.io"/>
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="70" alt="Cursor AI" title="Cursor AI"/>
+  <img src="https://lovable.so/favicon.ico" height="70" alt="Lovable" title="Lovable"/>
+  <img src="https://videsurf.com/favicon.ico" height="70" alt="Videsurf" title="Videsurf"/>
+
 
 </div>
 
