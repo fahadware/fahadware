@@ -39,7 +39,7 @@ I aim to become a well-rounded developer with strong skills in both  software de
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" alt="Python"/>
    <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70" alt="Git"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0rKMabCcB6RDSGrPnYtMiMCEX5TBeu2NX4Q&s" style="border-radius: 10" alt="GitHub" height="70"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0rKMabCcB6RDSGrPnYtMiMCEX5TBeu2NX4Q&s" border-radius="10"alt="GitHub" height="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="70" alt="VSCode"/>
 
   <!-- Web Dev -->
