@@ -12,7 +12,7 @@ I'm following a learning path that helps me grow step-by-step:
 2. 🔄 DevOps – Planning to explore automation, CI/CD, and cloud tools
 3. 🤖 AI/ML– Future goal: dive into machine learning and intelligent systems
 4. 
-I aim to become a well-rounded developer with strong skills in both  software development and system infrastructure, eventually combining my technical knowledge with AI to solve real-world problems.
+I aim to become a well-rounded Fullstcak engineer with strong skills in both  software development and system infrastructure, eventually combining my technical knowledge with AI to solve real-world problems.
 
  Currently Exploring
 - Frontend tools like React & Tailwind CSS
