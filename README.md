@@ -29,7 +29,7 @@ I aim to become a well-rounded Fullstcak engineer with strong skills in both  so
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fahadware.github.io/Portfolio/)
 [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)]([https://your-blog-link.com](https://hashnode.com/@fahadware))
 
-### 🚀 Languages & Tools I’ve Been Using in My Roadmap
+                           Languages & Tools I’ve Been Using in MyJouney
 
 <p align="left">
   <!-- Programming -->
