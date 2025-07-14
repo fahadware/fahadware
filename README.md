@@ -58,6 +58,13 @@ I aim to become a well-rounded Fullstcak engineer with strong skills in both  so
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60" />
   <img src="https://kineticit.com.au/wp-content/uploads/2022/10/AWS_logo-600x600.png" width="60" />
+  <!-- Web Servers / APIs / Tools -->
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="60" title="NGINX" />
+  <img src="https://www.vectorlogo.zone/logos/fastifyio/fastifyio-icon.svg" width="60" title="Fastify" />
+  <img src="https://img.shields.io/badge/REST%20API-ff5722?style=for-the-badge&logo=api&logoColor=white" height="40" title="REST API" />
+  <img src="https://www.svgrepo.com/show/354113/prisma.svg" width="60" title="Prisma ORM" />
+
 
   <!-- Custom Platforms -->
   <img src="https://img.icons8.com/color/512/replit.png" width="60" title="Replit" />
