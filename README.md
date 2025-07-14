@@ -60,10 +60,10 @@ I aim to become a well-rounded Fullstcak engineer with strong skills in both  so
   <img src="https://kineticit.com.au/wp-content/uploads/2022/10/AWS_logo-600x600.png" width="60" />
   <!-- Web Servers / APIs / Tools -->
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="60" title="NGINX" />
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919856.png" width="60" title="NGINX" />
   <img src="https://www.vectorlogo.zone/logos/fastifyio/fastifyio-icon.svg" width="60" title="Fastify" />
-  <img src="https://img.shields.io/badge/REST%20API-ff5722?style=for-the-badge&logo=api&logoColor=white" height="40" title="REST API" />
-  <img src="https://www.svgrepo.com/show/354113/prisma.svg" width="60" title="Prisma ORM" />
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*-dbPsi8Mdqj5Y0454eGvPQ.png" height="40" title="REST API" />
+ 
 
 
   <!-- Custom Platforms -->
