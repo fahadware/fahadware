@@ -62,7 +62,7 @@ I aim to become a well-rounded Fullstcak engineer with strong skills in both  so
 
   <img src="https://cdn-icons-png.flaticon.com/512/919/919856.png" width="60" title="NGINX" />
   <img src="https://www.vectorlogo.zone/logos/fastifyio/fastifyio-icon.svg" width="60" title="Fastify" />
-  <img src="https://www.iconpacks.net/icons/free-icons-6/free-rest-api-blue-logo-icon-22099-thumb.png" hight ="40" title="REST API" />
+  <img src="https://www.shutterstock.com/image-vector/api-application-interface-icon-simple-600nw-2188533787.jpg" width="40" title="REST API" />
  
 
 
