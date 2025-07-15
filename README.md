@@ -24,7 +24,7 @@ I aim to become a well-rounded Fullstcak engineer with strong skills in both  so
                                                              Social
 
 
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](fahad833@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](fahadkk833@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahad-ali-3a2128313/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fahadware.github.io/Portfolio/)
 [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)]([https://your-blog-link.com](https://hashnode.com/@fahadware))
