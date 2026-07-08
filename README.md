@@ -80,27 +80,18 @@ I aim to become a well-rounded Fullstcak engineer with strong skills in both  so
 ---
 
 ## 📊 GitHub Insights
-## 📊 GitHub Insights
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=fahadware&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadware&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></td>
+  </tr>
+</table>
+
+<br/>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=fahadware&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadware&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=fahadware&theme=dark&hide_border=false" height="200" />
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=fahadware&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
-
-
-
-
-
+correct the insight links that not opeing and showing
