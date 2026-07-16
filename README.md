@@ -1,49 +1,56 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Fahad+Ali;AI+Engineer+%7C+LLM+Developer;Building+AI+Agents+%26+RAG+Systems;Turning+Ideas+Into+Intelligent+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Fahad+Ali+%7C+AI+Engineer;Building+LLM-Powered+Applications;Designing+AI+Agents+%26+RAG+Systems;Creating+Scalable+Intelligent+Solutions" />
 
 </div>
 
----
+<br>
 
-<h2 align="center">🤖 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
-  🚀 AI Engineer passionate about building intelligent applications powered by 
-  <b>Large Language Models, AI Agents, and RAG Systems</b>.
+AI Engineer focused on building intelligent software systems using 
+<b>Large Language Models, Generative AI, AI Agents, and Retrieval-Augmented Generation (RAG)</b>.
 </p>
 
 <p align="center">
-  🧠 I specialize in designing scalable AI solutions, automation workflows,
-  and intelligent systems that solve real-world problems.
+I specialize in transforming complex ideas into scalable AI solutions through
+clean architecture, modern engineering practices, and cutting-edge technologies.
 </p>
 
-<p align="center">
-  💻 My focus areas include:
-</p>
-
-<p align="center">
-  🔹 Generative AI <br>
-  🔹 Retrieval-Augmented Generation (RAG) <br>
-  🔹 AI Agents & LLM Applications <br>
-  🔹 Machine Learning & Deep Learning <br>
-  🔹 Backend APIs & Cloud Deployment
-</p>
+<br>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI%20Engineer-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLM%20Developer-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG%20Systems-00A67E?style=for-the-badge&logo=semanticweb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-Generative%20AI-00F7FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Specialization-LLM%20%7C%20RAG%20%7C%20AI%20Agents-7B61FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Engineering-Scalable%20AI%20Systems-00C853?style=flat-square"/>
 
 </div>
 
----
+<br>
+
+<h3 align="center">What I Build</h3>
+
+<p align="center">
+
+◾ LLM-powered applications  
+<br>
+◾ AI Agents & autonomous workflows  
+<br>
+◾ RAG-based knowledge systems  
+<br>
+◾ Machine Learning & Deep Learning solutions  
+<br>
+◾ Production-ready APIs and cloud deployments  
+
+</p>
+
+<br>
 
 <div align="center">
 
-### ⚡ "Building the future with Artificial Intelligence"
+<img src="https://github-profile-trophy.vercel.app/?username=fahadware&theme=algolia&no-frame=true&row=1&column=6" />
 
 </div>
 
