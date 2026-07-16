@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 AI Engineer passionate about building intelligent applications with Large Language Models, AI Agents, and RAG systems. With a strong foundation in Development, I create scalable AI solutions that solve real-world problems through clean code and modern technologies.<br>
 
 
