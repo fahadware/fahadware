@@ -2,7 +2,7 @@
 
 Hi, I'm **Fahad Ali** 👋
 
-I'm an ** Aspiring AI Engineer** passionate about building intelligent applications with **LLMs, AI Agents, and RAG Systems**.
+I'm an **Aspiring AI Engineer** passionate about building intelligent applications with **LLMs, AI Agents, and RAG Systems**.
 
 I started my journey as a **Web Developer**, building modern web applications, and now I'm exploring the world of **Artificial Intelligence** to create smarter solutions.
 
