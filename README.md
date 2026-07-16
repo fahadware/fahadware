@@ -28,7 +28,6 @@ I started my journey as a **Web Developer**, building modern web applications, a
 ![](https://github-readme-stats.shion.dev/api?username=fahadware&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=fahadware&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=fahadware&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-# 📊 GitHub Stats:
 
 ---
 <p align="left">
