@@ -5,7 +5,7 @@ AI Engineer passionate about building intelligent applications with Large Langua
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/fahad-ali-3a2128313) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fahadkk833@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=googlechrome&logoColor=white)](https://fahadware.github.io/Fahad-portfolio/)
 
-# Tech Stack:
+
 # Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=css,c,cpp,js,html,latex,python,aws,netlify,vercel,render,firebase,bootstrap,fastapi,nodejs,react,tailwind,mysql,mongodb,postgres,figma,framer,matplotlib,numpy,pandas,pytorch,sklearn,tensorflow,git,github,docker,kubernetes)](https://skillicons.dev)
