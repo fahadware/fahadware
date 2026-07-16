@@ -1,57 +1,30 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Fahad+Ali+%7C+AI+Engineer;Building+LLM-Powered+Applications;Designing+AI+Agents+%26+RAG+Systems;Creating+Scalable+Intelligent+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Fahad+Ali;AI+Engineer+%7C+LLM+Developer;Building+AI+Agents+%26+RAG+Systems;Creating+Intelligent+AI+Solutions"/>
 
 </div>
 
 <br>
 
-<h2 align="center">About Me</h2>
+<h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-AI Engineer focused on building intelligent software systems using 
-<b>Large Language Models, Generative AI, AI Agents, and Retrieval-Augmented Generation (RAG)</b>.
+I am an <b>AI Engineer</b> passionate about building intelligent applications
+with <b>Large Language Models, AI Agents, and Retrieval-Augmented Generation (RAG)</b>.
 </p>
 
 <p align="center">
-I specialize in transforming complex ideas into scalable AI solutions through
-clean architecture, modern engineering practices, and cutting-edge technologies.
+I develop scalable AI solutions by combining modern software engineering,
+machine learning, and cloud technologies to solve real-world problems.
 </p>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Focus-Generative%20AI-00F7FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Specialization-LLM%20%7C%20RAG%20%7C%20AI%20Agents-7B61FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Engineering-Scalable%20AI%20Systems-00C853?style=flat-square"/>
-
-</div>
-
-<br>
-
-<h3 align="center">What I Build</h3>
 
 <p align="center">
-
-◾ LLM-powered applications  
-<br>
-◾ AI Agents & autonomous workflows  
-<br>
-◾ RAG-based knowledge systems  
-<br>
-◾ Machine Learning & Deep Learning solutions  
-<br>
-◾ Production-ready APIs and cloud deployments  
-
+<b>Focus Areas:</b><br>
+🤖 Generative AI & LLM Applications<br>
+🔎 RAG Systems & Knowledge Bases<br>
+🧠 Machine Learning & Deep Learning<br>
+⚡ AI Automation & Intelligent Agents
 </p>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=fahadware&theme=algolia&no-frame=true&row=1&column=6" />
-
 </div>
 
 ##  Socials:
