@@ -1,31 +1,34 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Fahad+Ali;AI+Engineer+%7C+LLM+Developer;Building+AI+Agents+%26+RAG+Systems;Creating+Intelligent+AI+Solutions"/>
-
-</div>
-
-<br>
-
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-I am an <b>AI Engineer</b> passionate about building intelligent applications
-with <b>Large Language Models, AI Agents, and Retrieval-Augmented Generation (RAG)</b>.
+Hi, I'm <b>Fahad Ali</b> — an <b>AI Engineer</b> and developer passionate about building intelligent,
+scalable, and impactful software solutions.
 </p>
 
 <p align="center">
-I develop scalable AI solutions by combining modern software engineering,
-machine learning, and cloud technologies to solve real-world problems.
+I started my journey as a <b>Web Developer</b>, building modern web applications and exploring
+full-stack technologies. Now, I'm expanding my expertise into <b>Artificial Intelligence</b>,
+focusing on creating AI-powered applications using <b>LLMs, AI Agents, and RAG Systems</b>.
 </p>
 
 <p align="center">
-<b>Focus Areas:</b><br>
-🤖 Generative AI & LLM Applications<br>
-🔎 RAG Systems & Knowledge Bases<br>
+My goal is to combine strong software engineering foundations with AI to build
+next-generation intelligent products that solve real-world problems.
+</p>
+
+<p align="center">
+<b>🚀 Currently Exploring:</b><br><br>
+🤖 Generative AI & Large Language Models (LLMs)<br>
+🔎 Retrieval-Augmented Generation (RAG) Systems<br>
 🧠 Machine Learning & Deep Learning<br>
-⚡ AI Automation & Intelligent Agents
+⚡ AI Agents & Automation Workflows<br>
+☁️ Cloud-based AI Applications
 </p>
-</div>
+
+<p align="center">
+<b>💡 I enjoy:</b><br>
+Building AI solutions • Learning new technologies • Open-source projects • Turning ideas into products
+</p>
 
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/fahad-ali-3a2128313) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fahadkk833@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=googlechrome&logoColor=white)](https://fahadware.github.io/Fahad-portfolio/)
