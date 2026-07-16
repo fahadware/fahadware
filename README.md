@@ -6,7 +6,7 @@
 <h3 align="center">
     <samp>
         &gt; Hey There!, I am
-        <b><a target="_blank" href="https://www.linkedin.com/in/hirad-alagha/">Hirad Emamialagha</a></b>
+        <b><a target="_blank" href="https://www.linkedin.com/in/hirad-alagha/">Fahad Alui</a></b>
     </samp>
 </h3>
 
