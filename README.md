@@ -30,4 +30,6 @@ I started my journey as a **Web Developer**, building modern web applications, a
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=fahadware&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=fahadware&label=Profile%20Views&color=0e75b6&style=flat)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=fahadware&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+</p>
