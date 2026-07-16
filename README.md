@@ -1,6 +1,51 @@
-#  About Me:
-AI Engineer passionate about building intelligent applications with Large Language Models, AI Agents, and RAG systems. With a strong foundation in Development, I create scalable AI solutions that solve real-world problems through clean code and modern technologies.<br>
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Fahad+Ali;AI+Engineer+%7C+LLM+Developer;Building+AI+Agents+%26+RAG+Systems;Turning+Ideas+Into+Intelligent+Solutions" />
+
+</div>
+
+---
+
+<h2 align="center">🤖 About Me</h2>
+
+<p align="center">
+  🚀 AI Engineer passionate about building intelligent applications powered by 
+  <b>Large Language Models, AI Agents, and RAG Systems</b>.
+</p>
+
+<p align="center">
+  🧠 I specialize in designing scalable AI solutions, automation workflows,
+  and intelligent systems that solve real-world problems.
+</p>
+
+<p align="center">
+  💻 My focus areas include:
+</p>
+
+<p align="center">
+  🔹 Generative AI <br>
+  🔹 Retrieval-Augmented Generation (RAG) <br>
+  🔹 AI Agents & LLM Applications <br>
+  🔹 Machine Learning & Deep Learning <br>
+  🔹 Backend APIs & Cloud Deployment
+</p>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20Engineer-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM%20Developer-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG%20Systems-00A67E?style=for-the-badge&logo=semanticweb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Building the future with Artificial Intelligence"
+
+</div>
 
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/fahad-ali-3a2128313) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fahadkk833@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=googlechrome&logoColor=white)](https://fahadware.github.io/Fahad-portfolio/)
