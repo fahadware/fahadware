@@ -31,5 +31,5 @@ I started my journey as a **Web Developer**, building modern web applications, a
 
 ---
 <p align="left">
-  <img src="https://profile-counter.glitch.me/fahadware/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=fahadware&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
 </p>
