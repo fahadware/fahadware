@@ -1,34 +1,20 @@
-<h2 align="center">👨‍💻 About Me</h2>
+## 👨‍💻 About Me
 
-<p align="center">
-Hi, I'm <b>Fahad Ali</b> — an <b>AI Engineer</b> and developer passionate about building intelligent,
-scalable, and impactful software solutions.
-</p>
+Hi, I'm **Fahad Ali** 👋
 
-<p align="center">
-I started my journey as a <b>Web Developer</b>, building modern web applications and exploring
-full-stack technologies. Now, I'm expanding my expertise into <b>Artificial Intelligence</b>,
-focusing on creating AI-powered applications using <b>LLMs, AI Agents, and RAG Systems</b>.
-</p>
+I'm an ** Aspiring AI Engineer** passionate about building intelligent applications with **LLMs, AI Agents, and RAG Systems**.
 
-<p align="center">
-My goal is to combine strong software engineering foundations with AI to build
-next-generation intelligent products that solve real-world problems.
-</p>
+I started my journey as a **Web Developer**, building modern web applications, and now I'm exploring the world of **Artificial Intelligence** to create smarter solutions.
 
-<p align="center">
-<b>🚀 Currently Exploring:</b><br><br>
-🤖 Generative AI & Large Language Models (LLMs)<br>
-🔎 Retrieval-Augmented Generation (RAG) Systems<br>
-🧠 Machine Learning & Deep Learning<br>
-⚡ AI Agents & Automation Workflows<br>
-☁️ Cloud-based AI Applications
-</p>
+ Currently learning:
+- Generative AI & LLMs
+- RAG Systems
+- Machine Learning
+- AI Automation
+- Gen Ai
+- Langchain
 
-<p align="center">
-<b>💡 I enjoy:</b><br>
-Building AI solutions • Learning new technologies • Open-source projects • Turning ideas into products
-</p>
+ I love building projects, learning new technologies, and turning ideas into real-world solutions.
 
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/fahad-ali-3a2128313) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fahadkk833@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=googlechrome&logoColor=white)](https://fahadware.github.io/Fahad-portfolio/)
