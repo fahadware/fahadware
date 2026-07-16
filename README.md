@@ -1,95 +1,62 @@
+# 💫 About Me
 
-I'm Fahad — a Computer Science student at FAST-NUCES, just beginning my journey into the world of Full-Stack Web Development using the MERN stack (MongoDB, Express, React, Node.js).
-
-Right now, I’m focused on building a strong foundation in:
-- 🖥️ Frontend & Backend Development
-- ⚙️ JavaScript, React, and Node.js
-- 🗃️ Database management and RESTful APIs
-
- My Roadmap
-I'm following a learning path that helps me grow step-by-step:
-1. ✅ MERN Stack Development– Currently learning and building projects
-2. 🔄 DevOps – Planning to explore automation, CI/CD, and cloud tools
-3. 🤖 AI/ML– Future goal: dive into machine learning and intelligent systems
-4. 
-I aim to become a well-rounded Fullstcak engineer with strong skills in both  software development and system infrastructure, eventually combining my technical knowledge with AI to solve real-world problems.
-
- Currently Exploring
-- Frontend tools like React & Tailwind CSS
-- Backend concepts with Node.js & Express
-- Git, GitHub & version control for collaboration
-
- “Every expert was once a beginner.” — Taking one step at a time and enjoying the process.
-
-                                                             Social
-
-
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](fahadkk833@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahad-ali-3a2128313/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fahadware.github.io/Fahad-portfolio/)
-[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@fahadware)
-
-                           Languages & Tools I’ve Been Using in MyJouney
-
-<p align="left">
-  <!-- Programming -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" />
-
-  <!-- Web Dev -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" />
-  <img src="https://w7.pngwing.com/pngs/771/978/png-transparent-tailwind-css-css-framework-customizable-low-level-tailwind-logo-3d-icon.png" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" />
-
-  <!-- System / Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60" />
-  <img src="https://kineticit.com.au/wp-content/uploads/2022/10/AWS_logo-600x600.png" width="60" />
-  <!-- Web Servers / APIs / Tools -->
-
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919856.png" width="60" title="NGINX" />
-  <img src="https://www.vectorlogo.zone/logos/fastifyio/fastifyio-icon.svg" width="60" title="Fastify" />
-  <img src="https://www.shutterstock.com/image-vector/api-application-interface-icon-simple-600nw-2188533787.jpg" width="60" title="REST API" border radius=50% />
- 
-
-
-  <!-- Custom Platforms -->
-  <img src="https://img.icons8.com/color/512/replit.png" width="60" title="Replit" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Uoz4Ou9R_0EE3K_nHZJl_GD4Hf7VfeyBakrr2oaVH_OrJXo-Y2_-4TRoYQgnlMgY3Po&usqp=CAU" width="60" title="Bolt.io" />
-  <img src="https://img.icons8.com/?size=512&id=DiGZkjCzyZXn&format=png" width="60" title="Cursor AI" />
-  
-  
-</p>
-
-
-<!-- Your tools and icons section ends here -->
+AI Engineer passionate about building intelligent applications with Large Language Models (LLMs), AI Agents, and RAG systems. With a strong foundation in Full-Stack Development, I build scalable AI solutions that solve real-world problems through clean code and modern technologies.
 
 ---
 
-## 📊 GitHub Insights
+## 🌐 Connect with Me
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=fahadware&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadware&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></td>
-  </tr>
-</table>
+<p align="left">
+<a href="https://www.linkedin.com/in/fahad-ali-3a2128313" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+<a href="mailto:fahadkk833@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+</p>
 
-<br/>
+---
+
+# 💻 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,sklearn,numpy,pandas,docker,kubernetes,aws,mongodb,postgres,mysql,react,nodejs,js,html,css,tailwind,bootstrap,firebase,git,github,figma,vercel,netlify,render,c,cpp&perline=8" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=fahadware&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com?user=fahadware&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadware&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+## 🚀 Currently Exploring
+
+- 🤖 Large Language Models (LLMs)
+- 🧠 AI Agents
+- 📚 Retrieval-Augmented Generation (RAG)
+- ⚡ FastAPI
+- 🐍 Python
+- ☁️ Cloud & Docker
+- 🔍 Prompt Engineering
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Build Production-Ready AI Applications
+- 🤖 Master AI Agents & Multi-Agent Systems
+- 📚 Contribute to Open Source AI Projects
+- 📝 Share AI Knowledge & Projects
+- 🌍 Build AI Solutions That Create Real Impact
+
+---
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=fahadware&theme=dark&hide_border=false" height="200" />
+  <img src="https://komarev.com/ghpvc/?username=fahadware&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
